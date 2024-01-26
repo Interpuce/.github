@@ -1,6 +1,6 @@
 # Witaj!
 
-**🚧 Ta strona jest podczas tworzenia! Niektóre informacje mogą być niedokładne/nieprawdziwe.**
+**🚧 This page is under construction.**
 
 - 🙋 To jest oficjalne konto systemu GorciuSystems zarządzane przez [Gorciu'a](https://github.com/gorciu-official) i Eklerkę25.
 - 🌈 Na repozytorium [GorciuSystems](https://github.com/gorciusystems/gorciusystems) możesz pobrać system (wkrótce).
