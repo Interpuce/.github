@@ -1,4 +1,4 @@
-<img align="center" src="https://media.discordapp.net/attachments/1024132470326710383/1206290217670152202/default.png?ex=65db784f&is=65c9034f&hm=9e9f322dc40e88a11fb3a47ffd391a11a4046144bbda24b45f78b246956d677a&=&format=webp&quality=lossless&width=500">
+<img align="center" src="https://cdn.discordapp.com/attachments/1024132470326710383/1206290217670152202/default.png?ex=65db784f&is=65c9034f&hm=9e9f322dc40e88a11fb3a47ffd391a11a4046144bbda24b45f78b246956d677a">
 
 # Welcome!
 
