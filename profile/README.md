@@ -1,5 +1,3 @@
-# Hello in AurorOS Github organization!
+# We are creating a better world.
 
-AurorOS Creators: Interpuce Team (Gorciu, Eklerka25)
-
-[AurorOS Download Center](https://github.com/Auror-OS/AurorOS)
+Meet us: [Gorciu](https://github.com/gorciu-official), [Eklerka25](https://github.com/Eklerka25)
