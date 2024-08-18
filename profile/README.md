@@ -6,4 +6,4 @@
 
 See the company behind AurorOS and other great open-source projects!
 
-**Meet us**: [Gorciu](https://github.com/gorciu-official), [Eklerka25](https://github.com/Eklerka25)
+**Meet us**: @Interpuce/head-developers
