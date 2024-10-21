@@ -8,4 +8,4 @@ This is the best place to report the bugs which aren't the security vulnerabilit
 
 ## Reporting a security vulnerability
 
-If you want to report this bug please contact us on Discord (gorciu_official or ek25_).
+If you want to report this bug please contact us on Discord (gorciu_official or .eklerka25).
