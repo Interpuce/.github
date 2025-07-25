@@ -4,4 +4,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=We+are+creating+a+AurorOS;We+are+creating+a+better+world;We+are+creating+a+better+Internet;We+are+creating+a+better+computers)](https://github.com/Interpuce)
 
-See the company behind AurorOS and other great open-source projects!
+See the company/group of passionates behind AurorOS and other great open-source projects!
